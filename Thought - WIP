@@ -1,0 +1,324 @@
+
+
+Deep Thought
+A game of better life.
+
+"From each according to his ability, to each according to his needs" 
+
+
+Stephen Edwards 2017 ©
+
+
+Index
+
+⦁	Forward
+
+⦁	Social pedagogy, growth mindset and resilience development and their potential impact on trauma sufferers, as well as the general population
+
+⦁	Deep thought
+⦁	Patch 4.2
+⦁	Demo
+⦁	Patch 4.2.1
+
+
+
+All you need is the belief that you are able and the ability to sit and prove yourself wrong
+
+(* All research is provided along with the growth mindset that anyone can learn in the digital age in which we live. By reading this document, you are already playing… enjoy your character and take care of it)
+
+Forward.
+
+Thinking, fast and slow by Daniel Kahneman (yes, the whole book)
+
+“An individual has been described by a neighbour as follows: “Steve is very shy and withdrawn, invariably helpful but with little interest in people or in the world of reality. A meek and tidy soul, he has a need for order and structure, and a passion for detail.” Is Steve more likely to be a librarian or a farmer?” (Page 7, Thinking, Fast and Slow, Kahneman, 2011)
+
+Hermeneutics- based “on the principle that we can only understand the meaning of a statement in relation to a whole discourse or world view of which it forms a part” (Scott & Marshall, 2005: p.322).
+
+In Manchester, trees have messages around their base that provide a mixture of informative facts about the benefits of trees to the individual or environment and uplifting, easily digested messages such as “trees are cool” or “breath of fresh air”. This choice of placement shows understanding that people often question the need for trees in a city environment and can be provided with nudges into the correct frame of mind on a variety of levels. Individuals can only be reached if you try to interact with them on an individual level.
+
+In practice, hermeneutics in social pedagogy encourages interaction on multiple platforms as the reality of one may not reflect reality for another. Providing multiple options for engagement allows the user to interact in a form that relates to them before being introduced to others forms, all of which should maintain the same base mechanics and messages. Designing and building with the aim to allow a user to interact with the system how, when and as frequently as they want will hopefully push the message that people communicate, learn and experience in different ways whilst also ensuring ethical design choices. 
+
+An initial design requirement for systems of this nature should be that addictive mechanisms or predatory tactics aimed at pushing any form of unhealthy behaviour for the gain of the development company or system are removed, adjusted to reflect opposite messages or implemented with as much care and attention to limit any damage to the player as a result of using such design options if impossible to avoid their usage entirely. This system and any similar, whether paper based or software, should only ever aim to support and improve the wellbeing of the player.
+
+Social pedagogic practice appreciates the need for exploratory dialogue, this can feel institutional and insincere when delivered in even the most open and friendly manner available, however this is sometimes delivered through role playing game systems such as Dungeons and Dragons. Whilst this may help, having the context of this game world and reality exist only within the confines of therapy highlight it as a therapeutic task. Blurring the edges by integrating the RPG elements into other aspects of life and learning may help the exercise feel more natural than purely a therapeutic approach as well as providing opportunities for further engagement with the lessons and values being developed.
+https://www.geeksaresexy.net/2014/06/27/characters-in-fantasy-worlds-play-cubicles-careers-instead-of-dd/
+
+If a system were to provide social pedagogic values, growth mindset messages, resilience development and personal well being encouragement and by making them part of the core mechanics used to interact with a game system that can be delivered via a paper based or digital world, this system could be able to deliver healthy habit forming advice as well as a therapeutic platform on which to engage. This can then be utilised as a platform to further deliver and facilitate reflection on these messages and practices over time, as a user's game literacy increases it will be possible to encourage the strive for deeper and deeper understanding.
+
+Using the paper based system as a starting point for further development, or for development of other iterations of the system, will encourage game literacy. Openly highlighted depths within the surface of the game can be used to develop advanced literacy and an understanding or expectation of finding hidden meaning in the worlds players engage with. An improvement in game literacy across a user base in games such as the Dark Souls franchise and Bloodborne, encouraged players to seek more depth to the world they found themselves in. This allowed for different paths to be taken, but also inspired countless hours of effort and fan created content exploring the thoroughly hidden histories and lore. https://youtu.be/KJyGsm0D2Qg also vatyavidya (you'll find him, his darksouls videos are amazing)
+
+The seemingly harsh game is designed to be enjoyed whether you learn quickly or by being killed a lot as you get better with each attempt, a message repeatedly put across to the player in a variety of forms and reflected in the controls, mechanisms, lore, atmosphere and detail of every design choice made by FromSoft which enables a sense that isn't found in many other games. Even among people who would consider themselves serious gamers, dark souls players are considered veterans despite anyone being able to play and beat dark souls. You purely have to believe you can do it, be able to learn how (the game will teach you, repeatedly) and have the resilience to prove it (to friends, YouTube followers, your own sanity having broken a third controller) and the feeling gained at every small step is important because it harnesses the growth mindset needed to not beat, but truly experience the world they had spent so many hours creating in beautiful detail. The feeling is reflected through the world and mechanisms used to upgrade your character, gear or otherwise benefit or alter your world (not all change is good but it happens anyway) such that understanding and utilising that mentality, which was heavily fed to the player despite being a game series notorious for not officially confirming the actual overarching story line, was the best advice and yet so seemingly vague until more depth is sought. This in itself creates a relational universe with the fan base and prepares them mentally to seek depth and meaning to their world's, as well as those of others. Social themes are from a limited cast but powerfully delivered in ways that are subtle and incredibly difficult to fully realise in a single play through. The fan base has shown particular connection with the characters and their moral battles with the positive and negative elements of humanity. Fully developed emotional investment with characters whose name may be written on one item (or merely hinted at, if that is their real name) and yet their stories and the impact they had on worlds over centuries are of potentially huge importance to your world. They may mean nothing, if you don't find out anything about them does it matter to your enjoyment of the game? This question is asked when designing the game but also left for the player with good reason, as with every other element of design FromSoft approached this with incredible emphasis and intelligence behind the messages the players are taught through play. Due to the mindset utilised and execution upon delivery, I would recommend dark souls as a therapeutic tool, though inappropriate for certain ages. The themes must be thoroughly explored to ensure risk to the player is mitigated wherever possible as a lot of depth and association are prevalent in both the Dark Souls franchise and the proposed approach to delivering a customisable relational universe. In some cases this may be more damaging than helpful as no system is perfect, players are individuals and there will always be bugs, however small. Through brutal mechanics, Dark Souls teaches that gradual mastery is as equally powerful as initial aptitude, if not more so, whilst pushing the player well beyond their comfort zone in order to truly learn the lessons well and return stronger yet.
+
+Encouraging this through play could be potentially beneficial when attempting to engage, or facilitate engagement with therapy whilst also creating a bridge between those involved, through literacy in game mechanics, and the expectation to find deeper meaning in a world that all can engage with and discuss. This range could include card games, role playing, art or music based therapeutic practices that could either benefit from or further improve areas of this system. Further uses of the central core system, around which multiple relational universes can exist, could be explored outside of the therapeutic fields in order to provide sensible advice to the public free from financial or political bias. Being taught how to filter between what is important and factual in the digital world is a lesson in growing need of becoming mandatory. This, as with every other element of design and future implementation of this system or any like it should be thoroughly risk assessed for the needs of the individual player, as well as cooperative play.
+
+This could also be used as a platform to deliver and explore virtual reality games or a system that could be integrated with existing games aimed at bullying victims and the impact of emotional damage caused by bullying
+Research, available solutions/current soa*
+
+In Talos principle, the player is led to believe the world has but one layer, this is their role, this is the story because the world is as it is. As the player learns that things may not be as they seem, he is pushed further and further into madness in order to discover the world left behind by humans. Can an artificial intelligence ever truly be human? What is a person? What is real? Interaction as with Dark Souls occurs through a cast rarely seen and their impact on your world unclear at first. Interaction with the librarian offers philosophy through exploratory dialogue which I thoroughly recommend.
+
+Social pedagogy, growth mindset and resilience development and their potential impact on trauma sufferers, as well as the general population
+
+Social Pedagogy research and background*
+https://www.sppa-uk.org/
+http://www.thempra.org.uk/news/cultivating-a-relational-universe/
+
+Educating for Happiness and Resilience: Dr Ilona Boniwell*
+https://www.youtube.com/watch?v=DbC18wFkHNI
+
+Research added for growth mindset and it's effectiveness (Dr Carol S. Dweck)*
+https://www.mindsetworks.com/science/
+https://educators.brainpop.com/2013/10/17/brain-points-growth-mindset-reward-structure-boosts-player-persistence-refraction/
+
+Research added for Penn Resilience Program and its effectiveness*
+https://ppc.sas.upenn.edu/services/penn-resilience-training
+https://ppc.sas.upenn.edu/research/resilience-children
+
+Removal of institutional language (guardian article 2015) *
+https://www.theguardian.com/social-care-network/social-life-blog/2015/aug/26/institutional-language-has-no-place-in-childrens-homes
+
+The concept of being mindful of others experiencing trauma and your capacity to assist can be delivered as a game mechanic and worded in a less institutional manner, for example:
+
+"Not all of the demons you will be challenged by here are your own, but be mindful of the difference. Overcoming your own demons will gain permanent improvement.
+Handling the demons of others, or choosing to assist others in their battles at the cost of resilience, will gain improvement that remains until you are next exhausted.
+
+This place can be tiring..."
+
+Or being mindful of your insecurities and the impact they have not just on how others perceive you but also how you present yourself, as this in turn will impact the perception of others. This lesson is commonly taught through betting strategy in poker or other areas of statistical probability however it could be written:
+
+“If a conversation is a deck being shuffled, you are a card. When you enter the conversation, enter in the middle and people will shuffle you to the top or bottom of the deck appropriately as the discussion progresses. If you put yourself anywhere else it changes where they put you next and could jeopardise where you are for the rest of the conversation, and start in future ones, based on unfounded personal assumptions or a lower self esteem. Currently we tend to put our card in where we feel it belongs and wait for it to be shuffled. Appreciate that the dealer can be influenced with each shuffle of the deck, but probability plays a hand in every chaotic game.”
+
+In order to provide a space which can be tailored to the needs and realities of the players, the themes of each mechanic should remain unchanged however the terms used to explain them can be decided as part of the game. An incredible amount of care needs to be taken with the language used, though it can be powerful to empower someone, it’s more powerful to understand that “empowerment” is quite a condescending transitive verb. For people experiencing or recovering from periods of trauma it is necessary to avoid further provoking the behaviours you are aiming to support the player in managing. This could be extended as a training aid in order to provide relational universes to teach groups using actors that establish group bonds over time. These actors could replace the on screen notifications or provided research into growth mindset, resilience development and social pedagogic practice as well as displaying negatives and encouraging appropriate methods of trauma management and mediation.
+
+We should teach critical thought, the ability and mental freedom to really, deeply question everything, especially your own beliefs.
+
+“Children should be taught to question everything. To question everything they read, everything they hear.. children should be taught to question authority. Parents never teach children to question authority. Because parents are authority figures themselves and they don’t wanna undermine their own bullshit inside the household. So they stroke the kid and the kid strokes them, and they all stroke each other and they all grow up all fucked up and then come to shows like this.” 
+George Carlin (in his final tour, ‘It's Bad For Ya’, 2008)
+
+I also recommend the book The Dragon and the George or the animated film (based on the book) The Flight of Dragons. I swear I wrote this and then watched this film but.. you'll see
+
+Deep Thought
+
+“Forty-two!" yelled Loonquawl. "Is that all you've got to show for seven and a half million years' work?"
+
+"I checked it very thoroughly," said the computer, "and that quite definitely is the answer. I think the problem, to be quite honest with you, is that you've never actually known what the question  is.”
+
+In Douglas Adams’ The Hitchhikers Guide to the Galaxy, Deep Thought is tasked with answering the question of life, the universe and everything. After a long time, 42 is revealed as the answer, however another, more powerful computer was needed to understand the question. With the universe looking on in anticipation, the Earth was created. This computer ran a program that provided us with a world in which to calculate the question. If we are to stand any chance of working out 42, we need to make sure the computer works. We would need to patch life.
+
+The Real World Patch 4.2 and Demo apply the same adjustments to stats and mechanisms. Patch 4.2 is played in the real world and can be used with your imagination if you don’t have a phone. Now with added support for general well being development and dialogue options for therapeutic tools. Please be sure to discuss your options with tech support should you wish to further explore your character. The demo offers a roguelike RPG game that can be played for small gains in the main patch to demonstrate some of the new features and future potential of Patch 4.2, such as self development and increasing capability even further with all new motivation mechanics. “Demons” and other used terms can be adjusted to reflect your own slither of the human experience.
+
+Real World Patch 4.2
+⦁	App and paper based system provide an avatar that is used to play a game that promotes the wellbeing of the player as a mechanic of play. The player gains points towards stat increases and XP level by interacting with in game mechanics and taking care of their real world self (represented by “fountain of life”, “lazarus pit”, “manna of heaven” and “coughing pole” town items, though the names are irrelevant provided they reflect the meaning of the item in the reality in which they exist). Assists with people who struggle to look after themselves as they see no value, looking after themselves benefits their avatar and allows better chance of handling future challenges.
+
+⦁	Life story work can be undertaken to establish starting stats, otherwise players start at 0 for all skills. Life story points can be added after game has begun
+
+⦁	Patch 4.2.1
+⦁	Mediation
+⦁	Virtual Reality Reality
+⦁	Nutrition advice and support for eating disorders
+⦁	Support and advice for substance usage and abuse
+⦁	Festival oriented releases to reduce harm and fatalities
+
+⦁	Quests given by town items can be contracts or covenants:
+
+⦁	Pandora's box (Quest provider): Planning tool that encourages weekly planning as well as work towards a specific personal goal, support and guidance can be provided to progress a small amount per day with experience and other gains rewarded for trying and not if or when successful. Reminders possible with app. Critical Thought gain (depending on task)
+		
+⦁	Fountain of life: Restores x % resilience, improves charisma stat if used bi daily for full month, bathing is important.
+
+⦁	Lazarus Pit: Restores x % resilience, if between 6-8 hours cleans gear, sleep is important too.
+	Science based approach? - https://www.youtube.com/watch?v=XtDc_iJ-j-M
+			
+⦁	Manna of heaven: Healthy diets restore more resilience than unhealthy ones but you need to eat, balance mechanics for eating disorders.
+Serotonin beneficial diets? Research to be added. Any suggestions firmly grounded in science and application to player (an individual, not a group, groups of players are encouraged to work together) considered. This is for therapeutic use first and foremost. Questionnaire could provide general well being advice and integrate eating diets higher in the nutrients you need into the resilience regained or benefits provided to avatar.
+		
+⦁	Vice of Balance: a selection of known vices can be represented to demonstrate issues with addiction. Cigarettes can be represented as a coughing pole that reduces resilience stat by a small amount each time as smoking is bad for you and is heavily discouraged. People do smoke and use drugs or other vices and careful, informed, mindful approaches should be used to ensure support is provided and individuals left to make their own guided choices. Drug law and research is currently a difficult topic on the global political stage and must be adjusted by region to inform of laws in your country whilst providing accurate scientifically backed advice and information.
+
+⦁	Turing Machine: Based on the Milton Library Assistant used in The Talos Principle, a journal for the player could also provide an artificial intelligence to support players in times when they may need to wait to see tech support or for general advice and thought provoking discussion. Could also provide puzzles, riddles, research topics or player specific educational material, increases critical thinking. Turn to this for knowledge, gain understanding. Occasionally known to tell stories about the other races from other relational universes, gathered by the Dudi who travel interdimnesionally for convenience.
+			
+⦁	Gym: Platform to deliver Penn Resilience Program, increases resilience. Alternative: Parrot of perception - Dr Boniwell
+
+⦁	Cave of Self Exploration: Ideally discovered with assistance from tech support, life story work can be undertaken to establish starting stats, class and race. Tool is found at the end of this cave with a small note reading “it is dangerous to go alone, take this”. Up until this point players start with offhand only and cannot acquire a tool to fix their problems.
+
+⦁	The Common Ground: Patch of land on which you can work with others to battle each other's personal demons. Asking for assistance during periods of high exhaustion frequency gains additional rewards for requesting player. Gains capped during periods of high resilience development if exhaustion is infrequent, balanced to reflect appreciation for the harm caused by supporting over reliance though this can at times be needed. By taking information about the players working together, messages could be shared between a team to enable more effective team work.
+			
+⦁	XP is not awarded for completing tasks but for working on them to 	reinforce a growth mindset. Working on things makes you better at them. Success rarely means you stop.	
+		
+⦁	Resilience depletes by an agreed percentage daily to facilitate learning the need to take care of self on a repeated cycle, especially during times of difficulty.
+		
+⦁	Exhaustion occurs when resilience is fully depleted
+	
+⦁	Tasks from quest providers can have tags of various demon types associated with the task 		
+⦁	Players encouraged to enter their own personal demons and associated strengths, either with assistance or guided by system through questionnaire based on known traumas and their impact on people. This can be revisited over time and amended as progress is made outside of the game(s). This could be discovered as a deeper level to the Cave of Self Exploration.
+Stats
+Stats will hold a central theme but be adjusted to the mechanics of the game being developed. Games with a variety of approaches to combat will require careful design of all core mechanics.
+
+⦁	Stats are based on social pedagogic Diamond Model (ref every child 		matters*) and each stat could be broken into two points of the Star model (Qpack*)
+		
+⦁	Resilience (Health/Well being): depletes daily by x%, exhaustion occurs when resilience reaches 0. Player starts again with blessings, curses and stat adjustments applied.
+			
+⦁	Charisma (/relationships): improves effectiveness when helping others. 25% added to base capacity in the worlds of others
+		
+⦁	XP (/positive experiences): affects character, quest and gear level
+			
+⦁	Critical Thinking (/holistic learning): affects level of gains to gear from overcoming personal demons. Gains rewarded for critical assesment as a group.			
+			
+⦁	Capacity (/empowerment): affects damage dealt to demons, size of tasks created
+⦁	Motivation: 10% of value added to capacity, value increases by 1 with each minor demon overcome, increases by 15 when normal demon overcome, increases by 30 when strong demon overcome. Returns to 0 on exhaustion.		
+Gear
+⦁	Starting gear adjusts stats with strengths or weaknesses based on own demons
+⦁	Tool (main hand): for fixing or creating things, a tool is always a weapon, a weapon is rarely a tool.
+⦁	Ring of Thought (off hand) inscribed with the words “this too shall pass” for good and bad times.
+⦁	Keepsake (jewelry) to cherish memories, gains decided through life work with other players or interaction with tech support.
+⦁	Pearl of Wisdom (Head) even the most beautiful of pearls dissolve in vinegar, be mindful of your thoughts. This could also work like the motivation mechanic to tailor gear to temporary action as well as long term improvement.
+⦁	Heart (Torso) your core, connected to your “town”, as you improve so do your surroundings
+⦁	Feet (Feet) - “When you can’t run, you crawl, and when you can’t crawl, you find someone to carry you” (Firefly, The Message 2003) gain from exercise. It is vital to strong physical and mental health, however little a day as you can at first and increase with capability.
+		
+⦁	Gear improves and develops over time based on the strong personal demons overcome, possibly affected by repeated exhaustion at the hands of a distinct group or specific demon. Are we shaped by failure and success in equal measures?
+		
+⦁	Gear could be levelled by, and increasing stat lost on, exhaustion using the same system as motivation. Gear should also evolve for every x demon(s) faced akin to the Fable 3 weapon evolution system where by if a user defeated a given number, of a pool of a given number of specific groups of enemies, unique to each weapon, the weapon changed to reflect that progress. A more elaborate system should be possible in time.
+		
+⦁	Gear can stagnate and be less effective if unused/cleaned
+		
+⦁	Cleaning gear reflects reflective practice, taking time to process and maintain what you've learnt, keep skills sharp but well aimed
+	
+Items
+⦁	Blessings from defeated demons and curses from last demon exhausted by 		
+	
+⦁	Possibly cursed not from each exhaustion but if exhausted repeatedly by same type/subgroup or the group that did the most damage overall between 		exhaustions
+	
+⦁	Blessing or curse to be related to the demon responsible or skills associated with overcoming it
+	
+⦁	Item to visually reflect blessing or curse or demon responsible for creation
+
+⦁	Items can be viewed in hometown
+		
+⦁	Blessing items can be broken into permanent and impermanent:
+⦁	Permanent			
+⦁	Gained 	from personal demons					
+⦁	Impermanent			
+⦁	Gained 	from demons of others				
+⦁	All bonuses are lost on exhaustion			
+⦁	Potency is linked to level of resilience. Starting at 100% (if player has exceeded 100% resilience), decrease as player approaches exhaustion, exhaustion disrupts clear thought and link to effectiveness will teach caution of when to help and when to look 	after self			
+⦁	Can be regained, allows for recyclable items and repeated lessons plus incentive to continue helping others despite past failure			
+⦁	Stackable items, after a certain number of same/similar collected a permanent item is created? Repeated action creates habit	
+Demons
+⦁	Anxieties, responsibilities, expectations of others, negative comments, perceived wrongs, unchecked aggression or similar. These can be whatever troubles you face in life, even the ones you yourself may be good at! Examples include: paper work, public speaking, household chores, laundry, timekeeping, personal care, finances.
+	
+⦁	Demons to be separated into personal demons and those (unconscious or 	consciously) created by others, demons players agree to work 	together against are the personal demons of the primary player and can be shared. Other people's demons also infiltrate your world from time to time, as will yours be experienced by others. During times that your own personal demons are exasperated and more heavily impact those around you, a notification could be provided to allow a player to adjust their behaviour to better facilitate communication and support so that their burdens be eased by others able to assist the player in enjoying their play through.
+	
+⦁	Other people's demons will be attributed a strength that reflects the players resilience to the demon type, not the strength they are given in their owners world, your friends weak demons may seem strong to you and vice versa.
+		
+⦁	Demons from players within a certain threshold of near exhaustion for a prolonged period will strengthen and provide higher gains if faced, people facing trauma can generate stronger demons for a time.
+
+⦁	Players who regularly maintain a high resilience and overcome a set number of demons will have a lessened demon presence in the worlds around them as well as increased gains from common ground usage.
+		
+⦁	Demons are separated by:		
+⦁	social			
+⦁	personal		
+⦁	private		
+	
+⦁	Friends can be invited to be aware of our demons on same three level basis
+	
+⦁	Demons to be separated in severity:
+		
+⦁	minor			
+⦁	normal			
+⦁	strong 			
+⦁	how many should there be?	
+
+Own demons
+⦁	Overcoming drops a blessing items that increase stats or XP gain to stats permanently.
+		
+⦁	Own demons either force evolution of an item of (or all) gear in a given area of resilience or related stat.
+		
+⦁	If others assist with strong or greater personal demons, gear bonus provided to them also, 50% for strong, 75% of anything higher (if higher, scaling not confirmed).	
+Demons of others
+⦁	Overcoming them drops blessing items that are lost on exhaustion that provide some element of boost as a result of gaining empathy and understanding by offering some of your own resilience to support others. This could be a temporary XP boost or resilience increase based on level (should higher levels get lower boost?)
+	
+⦁	Shared 	XP, resource etc. boost to all involved (helping benefits all)
+		
+⦁	Battles 	against strong personal demons of others gain smaller boost to gear as personal demons
+Minor
+⦁	Increase in motivation to handle demons or just of a specific type with intervals of attacks (skill improvement plateaus at times), stronger attack with each demon overcome. Dealing with minor demons will give better capability when handling bigger and future challenges.
+		
+⦁	Minor versions of other demon types.
+	
+Class and Species
+
+Each player will have a class and a species, the class impacts the difficulty of a play through in a variety of ways where as the species impacts interaction between relational universes. 
+
+Class is separated in to easily impossible, moderately unpleasant, and hardcore cakewalk and reflects the players starting point in terms of access to economic assistance as well as the amount of credit the player starts the game with, if any at all. Players can be any character they wish and any species they happen to be at the time, your class will always impact your game equally, moving between classes is difficult and often requires a collective effort.
+
+Species is developed as the game progresses through repeated visits to the depths of the Cave of Self Exploration. Multiple species exist within the multirelational universe, myths of the Dudi imply a commonly shared, if often negative in connotation, label that explains a selection of traits on a scale, despite their individuality. Their distant but rational nature seems to benefit them in their individual quests for understanding however provides a social barrier that can lead a Dudi down the tormented path of the Seathe. The Dudi hope to establish balance, rather than pure good or evil, as the chaotic nature of the multirelational universe teaches that preparing for change of any variety requires a platform from which to handle the unknown.
+
+The town items will allow tags to be assigned to some tasks added via quests, which reflect the various levels and types of demons associated with that task (for example balancing finances = responsibilities, planning an event = paperwork/study). 
+
+The town could instead be represented as a center of self. A core that drives the individual. Progression in the game could be used to expand and improve upon the “town” in a variety of ways. It could be possible to require upkeep of the town and be able to acquire assistance, either from representations of your inner and extended social networks or the inner strengths we possess that counteract our inner demons. This could be extended to better balance the system of using personal demons as an unchecked negative. Adding a positive still requires more thought than simply providing a “good guy” character to mitigate negativity from life's challenges. If anything, this system aims to teach that you as the player are empowered and provide support through this system to better approach life's difficulties to become the good in your universe. Be the change you wish to see in the world.
+
+This concept, as with all work towards this system, has been based on work carried out with looked after children and adults over my career as a residential care worker. Safeguarding of these individuals, and any that use such systems, should be at the core of any decision made. Close collaboration with respected charities and governing bodies will ensure this product and future designs will act within strict accordance to safeguarding guidelines.
+
+Completing or overcoming these tasks will gain the same buffs regardless of version in order to demonstrate future capabilities to players who engage with the desktop version as well as paper based and app real world versions. People experiencing, or who have previously experienced trauma, often struggle with visualising the long term, and sometimes even short term impact and benefits of personal care, growth and resilience development. A visual prototype is currently in development however the proposal itself is a prototype.
+
+Play will be encouraged around the concept of learning to deal with smaller issues in order to be able to handle the bigger challenges both by increasing a character's resilience through a selection of in game tasks and mechanics and improved damage to that demon type or group by overcoming smaller demons to better prepare for the bigger challenges ahead. This process teaches resilience development techniques through its mechanics and promotes game literacy if the correlation with real world resilience development is discussed, providing a future platform for exploring its role and importance through play.
+
+Experience is gathered monthly and distributed evenly based on interaction levels in paper based and app version, if you engage once a month you get the same benefit as someone who engages frequently or every day. This is set manually initially and can be adjusted over time either manually or automatically (in the case of an app)
+
+Real World Patch 4.2 Demo (PC only, app potentially)
+
+⦁	Rogue like RPG dungeon crawler with procedurally generated maps in which players face a variety of digital representations of various demons. These are separated visually to indicate personal, other and minor as well as type.
+⦁	Player gains XP for working against demons as well as blessings for defeating certain demons and curses from being exhausted by a demon (or x number of demon type)
+⦁	Demon 	attacks will deplete resilience until exhaustion.	
+⦁	Small percentage of gains in xp, resources, blessings or curses applied to app and paper based versions daily/weekly, progress towards real world tasks tbd	
+⦁	Gains to external systems capped to prevent excessive gameplay instead of interaction with real world systems	
+⦁	Gains to external systems will be accessible to view in game but only "released” monthly/weekly/daily. perhaps a similar system to star chests in Paragon?
+⦁	Visible representation of real world potential with commitment and engagement with system
+⦁	Can be re skinned or developed to support modding, game design and development as a therapeutic practice. “Demon”, “Blessing”, “Curse” and any town item name tag can be altered in all iterations to better fit the reality the game exists in (if any fantasy setting used at all) and the system still applied.
+
+This game can be delivered in a variety of fashions from simplistic games such as hero siege, traditional existing games such as the Zelda franchise, newer 2D games such as darkest dungeon or AAA titles such as Dark Souls, Talos principle and Assassin's Creed.
+
+App could employ “Freemium game” tactics but payment with looking after real world self, not money, fewer notifications sent to people suspected of interacting less due to trauma (high frequency of exhaustion on App? ethical to track?) XP collected as with paper based version to reflect user's interaction levels. People who struggle with appropriate social engagement may also benefit from an app only allowing direct communication between people at times agreed on an individual basis.
+
+App could display the exhaustion levels of those around you and consist of real world data to play a version of the Demo
+
+Ref Pokemon Go*
+https://youtu.be/94KwB205DDk
+
+https://www.youtube.com/watch?v=cQ9s0GiEAFU
+https://www.youtube.com/watch?v=nJYs7YDcTms
+(videos from extra credits, notes to be written but their entire body of work should be mandatory watching before designing anything)
+
+This could be used to teach others to be mindful of those around you and offer the opportunity to assist with demons on the various levels of interaction (social, personal, private) for in game rewards and xp, as with demo.
+
+Due to the therapeutic nature of this proposed development, steps should be taken to consider the ramifications of social media or predatory internet and marketing powers targeting it. This would include a need for servers built specifically with the intention of being untraceable and would need to be handled with incredible sensitivity through the design, development and deployment of this or similar projects. The user identities should be undiscoverable in principle. This means building an anonymous network and it should exclude schemes that intend to extract money from the players either directly or by using data analytics to sell advertising or otherwise generate revenue. No data can be shared with any other organisation, nor stored by this one, unless absolutely essential for the safety of a player. If possible, a block chain approach or a system akin to the system used in Going Postal by Terry Pratchett* could be used. Whatever is created, it should also be used to send his name around for all time, in his honour. He taught me that it's not just ok to be a bit weird, it's actually preferable.
+
+Social media is an important part of life and would need to change drastically, as well as agreeing to strict laws and operation on the above mentioned architecture. As an alternative a social media site could be launched that allowed interaction using your avatar that could be heavily regulated and moderated by appropriate bodies, this platform could provide genuine advice and support compared to existing social media. MySpace offered the ability to learn and code your own profile page, though the complexity of pure html coding with lacking documentation to the general user, and the nature of the internet at the time of it’s height, caused issues with this in practice it would be now possible to build an impressive educational tool that functioned as a healthy social media platform. The reality of this being a viable contender may aid bringing about long needed change to the role of social media in society.
+
+http://www.msn.com/en-gb/news/uknews/schoolboy-hanged-himself-after-fearing-he-would-be-in-trouble-for-forgetting-text-books/ar-BBBG0lh?li=BBoPWjQ&ocid=mailsignout
+
+https://www.youtube.com/watch?v=NgDGlcxYrhQ
+
+The intown items are designed to allow interaction with educational activities on a user's terms. This can be facilitated by using the Pandora's box to dedicate time to study or research of a specific topic as part of a task, or through the Turing Machine which can either provide guided suggestions or random useful knowledge. A combination of the two could be used in order to encourage engagement with current curriculums as well as providing topics that spark the interest of the individual.
+
+Art style of demo and app to combine Dark Souls and Talos Principle*, game play to be confirmed. Art work currently in development by Matthew Agate and follows work from his personal portfolio, published work and research in the field of art psychotherapy. All music and art should be carefully selected for the individual and these are suggestions only
+
+https://youtu.be/sQ7hFFw3x78
+
+http://1.bp.blogspot.com/-fQ90L6XE6vE/UE2RDZvzLOI/AAAAAAAAHXM/1TfdBF05HVY/s1600/dark-souls.jpg
+
+http://toucharcade.com/wp-content/uploads/2014/01/screen1136x1136-314.jpeg
+
+Were this system capable of helping humans further understand ourselves, perhaps one day it could be used to help explain ourselves better to other intelligences we may encounter in the universe.
+
+A video to demonstrate the system in use could be styled around Pokémon go/augmented reality, show children, old people, trauma sufferers, a dog (I find this funny..) with holographic representatives that tackle life's challenges alongside you. Stress that healthy living and mental practices will boost an individual's character and resilience allowing for tougher challenges to be faced head on. Emphasis on the growth element is essential, like something bunker hill* would make. Emphasis on the collective benefits of individual well being is vital. We may all live in our own universe but the real world is a shared space. Ever played .Hack*?
+https://www.youtube.com/watch?v=YlUKcNNmywk
+
+https://youtu.be/U_bL0EqlDEk
+
+https://youtu.be/i-aCSFD3xro
+
+Money and currencies to be used with this system are currently absent, it’s not something that fits into my relational universe very well. I feel when currency is introduced it should be weighted such that any “money” earned is worth the effort put in to obtain it, rather than a flat value.
+https://www.youtube.com/watch?v=83XRTl_JE1o and the book..the book’s better.
+
+This system is designed so that games in multiple multiverses can be designed in future, all references are intended as homages and if I could sit and force you to watch, read or play anything mentioned I really would. Should anyone not be happy with their universe and mine crashing into each other please let me know and I'll remove you, if you're happy then see you in the verse.
+
+Stephen Edwards 2017 ©
+(Going insane over mental health 1986 - )
